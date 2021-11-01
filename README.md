@@ -58,7 +58,7 @@ The Manager is provided with different services like:
  **Check Out :**<br />
  - In the Check Out window there is a table with a list of the hotel's customers who checked in. <br />
  - Clicking on a customer in the table will automatically fill in his details in the appropriate fields at the bottom of the page. <br />
- - Clicking "Check Out" will remove the customer from the hotel's current customer base. <br />
+ - Clicking on "Check Out" will remove the customer from the list of customers in the hotel. <br />
  - The room status in the "booked" column will change to 'NO'.
 
  **Customer Detils :**<br />
